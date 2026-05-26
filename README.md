@@ -1,7 +1,8 @@
 # dual-axis-solar-tracker
 This is a Schoolproject, where I test whether or not a dual-axis-solar-panal is profitable
+
 Manual of prototype 2 
- system overview 
+system overview 
 This solar tracker automatically follows the sun using for LDR light sensors and two servo motors. It also measures voltage, current, and power using an INA219 sensor and shows all the information on a small OLED screen 
 navigating the screen 
 Button 1: 
